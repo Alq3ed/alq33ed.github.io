@@ -3,8 +3,8 @@ Version: 1.0.3-2
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs /com.alq3ed.ants_1.0.3-2_iphoneos-arm.deb
-Size: 78272 Bytes
+Filename: ./debs/com.alq3ed.ants_1.0.3-2_iphoneos-arm.deb
+Size: 78272
 MD5sum: 695d58c67442ea210da6c0c11f90bedf
 Description: اداة جميلة تجعل النمل يمشي على الشاشة معربة .
 Name: Ants معربة
@@ -16,8 +16,8 @@ Version: 0.2.3-2
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, applist
-Filename: ./debs /com.alq3ed.apphide_0.2.3-2_iphoneos-arm.deb
-Size: 13244 Bytes
+Filename: ./debs/com.alq3ed.apphide_0.2.3-2_iphoneos-arm.deb
+Size: 13244
 MD5sum: fc6943990dae344ee702ae82bcb7d93f
 Description:اداه لإخفاء التطبيقات من الشاشة والبحث معربة 
 Name: AppHide معربة
