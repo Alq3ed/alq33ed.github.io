@@ -15,7 +15,7 @@ Package: com.alq3ed. apphide
 Version: 0.2.3-2
 Section: Tweaks
 Architecture: iphoneos-arm
-Depends: firmware (>= 7.0), mobilesubstrate, applist
+Depends: mobilesubstrate, applist
 Filename: ./debs /com.alq3ed. apphide_ 0.2.3-2_iphoneos-arm.deb
 Size: 13260 Bytes
 MD5sum: 53f8a28bdeebb853f56dd268d917b6ae
