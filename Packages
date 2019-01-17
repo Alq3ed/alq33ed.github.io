@@ -9,4 +9,17 @@ MD5sum: 695d58c67442ea210da6c0c11f90bedf
 Description: اداة جميلة تجعل النمل يمشي على الشاشة معربة .
 Name: Ants معربة
 Author: Spark
-Maintainer: ALq3ed <a7san.aliraqi@gmail.com
+Maintainer: ALq3ed <a7san.aliraqi@gmail.com>
+
+Package: com.alq3ed. apphide
+Version: 0.2.3-2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate, applist
+Filename: ./debs /com.alq3ed. apphide_ 0.2.3-2_iphoneos-arm.deb
+Size: 13260 Bytes
+MD5sum: 53f8a28bdeebb853f56dd268d917b6ae
+Description:اداه لإخفاء التطبيقات من الشاشة والبحث معربة 
+Name: AppHide معربة
+Author: Spark
+Maintainer: ALq3ed <a7san.aliraqi@gmail.com>
