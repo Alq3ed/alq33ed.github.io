@@ -1,0 +1,12 @@
+Package: com.alq3ed.AntsAR
+Version: 1.0.3-2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs /com.alq3ed.ants_1.0.3-2_iphoneos-arm.deb
+Size: 78272 Bytes
+MD5sum: 695d58c67442ea210da6c0c11f90bedf
+Description: اداة جميلة تجعل النمل يمشي على الشاشة معربة .
+Name: Ants معربة
+Author: Spark
+Maintainer: ALq3ed <a7san.aliraqi@gmail.com
