@@ -11,14 +11,14 @@ Name: Ants معربة
 Author: Spark
 Maintainer: ALq3ed <a7san.aliraqi@gmail.com>
 
-Package: com.alq3ed. apphide
+Package: com.alq3ed.apphide
 Version: 0.2.3-2
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, applist
 Filename: ./debs/com.alq3ed.apphide_0.2.3-2_iphoneos-arm.deb
 Size: 13244
-MD5sum: fc6943990dae344ee702ae82bcb7d93f
+MD5sum: babbacadbe587cf71a3f4449707fe73e
 Description:اداه لإخفاء التطبيقات من الشاشة والبحث معربة 
 Name: AppHide معربة
 Author: Spark
